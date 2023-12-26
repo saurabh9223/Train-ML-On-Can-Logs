@@ -1,0 +1,11 @@
+NOTES:
+plot data.
+vary estimators and try.
+
+REFERENCES:
+https://omdena.com/blog/time-series-classification-model-tutorial/
+
+https://www.youtube.com/watch?v=ZgHGCfwExw0&list=PLkKdVy_oHuMN_dDzAgIzW9niOUJFBQFfP
+
+lstm-binary-cross-entropy
+https://arize.com/blog-course/binary-cross-entropy-log-loss/#:~:text=Binary%20cross%20entropy%20(also%20known,equate%20to%20high%20accuracy%20values.
